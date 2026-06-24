@@ -1,2 +1,2 @@
 # Tidal-Energy-Research
-Technical analysis of tidal energy systems, evaluating technology readiness, economic feasibility, and future deployment opportunities.
+This project consists of a technical research paper investigating the current state of tidal energy systems and their potential role in future renewable energy infrastructure. The research evaluates existing tidal generation technologies, economic and environmental considerations, commercialization challenges, and future opportunities for large-scale deployment. The paper was developed through an extensive review of technical literature and industry sources to assess the viability of tidal energy as a sustainable power generation solution.
